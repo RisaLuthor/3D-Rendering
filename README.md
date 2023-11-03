@@ -19,3 +19,12 @@ Prototype 2:
 <br>
 Gnome Set:
 <br><p>A desk decoration of happiness. These Gnomes can hold spyware and a virtual assistant.</p>
+
+<br>
+
+<br>
+Kryptonian_Key_USB:
+<br><p>DC Superman USB Key for a fun way to support your favorite superhero. Works great as spyware.</p>
+<br>
+
+<br>
