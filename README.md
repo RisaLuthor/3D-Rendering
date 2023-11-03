@@ -15,3 +15,7 @@ Glasses:
 Prototype 2:
 <br><p>An attachment for glasses that allows the user to conceal their airpods for a more innovative look and feel of spyware. It has been tested in multiple businesses and has been very successful.</p>
 <br>
+
+<br>
+Gnome Set:
+<br><p>A desk decoration of happiness. These Gnomes can hold spyware and a virtual assistant.</p>
