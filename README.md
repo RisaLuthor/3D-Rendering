@@ -28,6 +28,6 @@ Kryptonian_Key_USB:
 <br>
 
 <br>
-The Nerf CHallenge Barrier Prototype:
+The Nerf Challenge Barrier Prototype:
 <br><p>A prototype of the barrier's that are constructed for the Nerf Challenge Pop Events that tour internationally. I was tasked with recreating a barrier for one of the arenas.</p>
 <br>
