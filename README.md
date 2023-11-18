@@ -11,10 +11,6 @@ Glasses:
 <br><p> Eyeglasses without a traditional frame around the lenses. Instead of having a frame that encircles the lenses, these glasses use small screws or a wire to connect the lenses directly to the temples and nose bridge. This design gives the illusion of the lenses floating on the wearer's face, providing a minimalist and lightweight aesthetic. Frameless glasses are popular for their sleek and modern appearance, making them a fashionable choice for individuals seeking a subtle and contemporary eyewear style. They are often preferred for their comfort, versatility, and unobtrusive look, making them suitable for various occasions and outfit styles. </p>
 <br>
 
-<br>
-Prototype 2:
-<br><p>An attachment for glasses that allows the user to conceal their airpods for a more innovative look and feel of spyware. It has been tested in multiple businesses and has been very successful.</p>
-<br>
 
 <br>
 Gnome Set:
